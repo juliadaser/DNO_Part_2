@@ -1,6 +1,6 @@
 let currentYear = 2023;
 
-Tutberitze_2022_Olympics = {
+Tutberitse_2022_Olympics = {
   olympicChampions: [
     {
       nameEnglish: "Anna Sherbakova",
